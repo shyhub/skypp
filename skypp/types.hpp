@@ -6,6 +6,9 @@ typedef void* T;
 
 typedef char byte;
 
+typedef char*       string;
+typedef const char* strlit;
+
 typedef char      i8;
 typedef short     i16;
 typedef int       i32;
