@@ -7,6 +7,9 @@
 #define defunion  typedef union
 #define defenum   typedef enum
 
+#define as =
+#define of :
+
 #define print printf
 
 
